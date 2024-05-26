@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(to right, #e0eafc, #cfdef3); /* Light blue gradient */
+    font-family: Arial, sans-serif;
+}
+
+.converter-form {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
